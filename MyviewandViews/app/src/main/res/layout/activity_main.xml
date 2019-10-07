@@ -171,6 +171,15 @@
                 android:layout_toRightOf="@id/r80"
                 android:text="@string/ajakan"/>
         </RelativeLayout>
+        <Button
+            android:id="@+id/btndonasi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Donasi"
+            android:layout_gravity="center"
+            android:layout_marginBottom="100dp"
+            android:background="@drawable/buttonstyle"
+            android:textStyle="bold"/>
     </LinearLayout>
 </ScrollView>
 
