@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "90226380052",
+    "firebase_url": "https://shopping-chart-70cf6.firebaseio.com",
+    "project_id": "shopping-chart-70cf6",
+    "storage_bucket": "shopping-chart-70cf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90226380052:android:2c808d81c49e2549368601",
+        "android_client_info": {
+          "package_name": "bob.example.daftarbelanja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90226380052-c4usq3nvjh40g96ak85711941cl0pr3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqXuqDLpC-MFpjwhDnGPm2jdwgvpCc9T8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90226380052-c4usq3nvjh40g96ak85711941cl0pr3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
