@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rental Outdoor</string>
+    <string name="nama_penyewa">the tenants name<font color='red'>(*)</font></string>
+    <string name="alamat">Addres <font color='red'>(*)</font></string>
+    <string name="no_telp_hp">No. Telp/HP <font color='red'>(*)</font></string>
+    <string name="merk">Brand <font color='red'>(*)</font></string>
+    <string name="lama_sewa">Long time rent <font color='red'>(*)</font></string>
+    <string name="deutertext">Deuter</string>
+    <string name="hargabarangtxt">Price of goods:</string>
+    <string name="sewa_barangtxt">rent goods</string>
+    <string name="profiltxt">PROFILE</string>
+    <string name="minggu_20_oktober_2020txt">Minggu, 20 Oktober 2020</string>
+    <string name="informasi_barangtxt">Item information</string>
+    <string name="change_language_settings">change_language_settings</string>
+</resources>

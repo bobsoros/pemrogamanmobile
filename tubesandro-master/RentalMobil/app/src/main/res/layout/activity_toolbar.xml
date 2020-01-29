@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".activity.ToolbarActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarprofile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_background"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="210dp"
+        android:layout_height="210dp"
+        android:src="@drawable/dikadek"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginTop="80dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bob soros"
+        android:textStyle="bold"
+        android:textColor="@color/cardview_dark_background"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_marginTop="20dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="e-mail : bobsoros0@gmail.com"
+        android:textSize="10sp"
+        android:gravity="center"
+        android:layout_marginTop="5dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="fb : bob soros"
+        android:textSize="10sp"
+        android:gravity="center"
+        android:layout_marginTop="5dp"/>
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="210dp"
+        android:layout_height="210dp"
+        android:src="@drawable/ghulaam3"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginTop="80dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ghulam Ikhsan"
+        android:textStyle="bold"
+        android:textColor="@color/cardview_dark_background"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_marginTop="20dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="e-mail : Ghulam ikhsan8@gmail.com"
+        android:textSize="10sp"
+        android:gravity="center"
+        android:layout_marginTop="5dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="fb : Ghulam"
+        android:textSize="10sp"
+        android:gravity="center"
+        android:layout_marginTop="5dp"/>
+
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    &lt;?xml version="1.0" encoding="utf-8"?&gt;
+    &lt;layer-list xmlns:android="http://schemas.android.com/apk/res/android"&gt;
+
+    &lt;item android:drawable="@color/colorPrimary" /&gt;
+
+    &lt;item&gt;
+    &lt;bitmap
+    android:src="@mipmap/ic_launcher"
+    android:gravity="center" /&gt;
+    &lt;/item&gt;
+
+    &lt;/layer-list&gt;
+</selector>
